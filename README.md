@@ -15,6 +15,7 @@ permission documents and the founder's decisions. Nobody with legal training has
 | PhotoOne | `photoone/privacy/` | `photoone/terms/` | `photoone/support/` |
 | GST Invoice & Quote Maker | `gst-invoice/privacy/` | `gst-invoice/terms/` | `gst-invoice/support/` |
 | Bill Splitter | `bill-splitter/privacy/` | `bill-splitter/terms/` | `bill-splitter/support/` |
+| AR Arcade | `ar-arcade/privacy/` | `ar-arcade/terms/` | `ar-arcade/support/` |
 
 Effective date on every page: 10 November 2026. Support email: amakatsolutions@gmail.com (taken from the app repos).
 
